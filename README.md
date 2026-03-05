@@ -1,7 +1,7 @@
-banananas is my name
-programming is not very lame
-for music i feel the exact same
-i'm also crap at poetry
+banananas is my name,
+programming is not very lame,
+for music i feel the exact same,
+i'm also crap at poetry,
 
 ----- TECH STACK -----
 - GameMaker enthusiasist
