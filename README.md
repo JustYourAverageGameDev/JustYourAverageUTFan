@@ -1,23 +1,22 @@
-------- UNDERTALE TWILIGHT LINK -------
-https://gamejolt.com/games/uttwilight/843519
+banananas is my name
+programming is not very lame
+for music i feel the exact same
+i'm also crap at poetry
 
-Hiya! I'm JustYourAverageGameDev, lead
-developer of UNDERTALE: Twilight and a
-few more projects. The main engine I
-use to make games is GameMaker, but I
-have some experience with JavaScript,
-Python and C++, which I'm currently
-learning how to use.
-Here are the projects I'm a part of:
-- Deltarune Internal Demons (coder,
-  musician)
-- Tales Between the Stars (coder,
-  musician, writer)
-- SWAPPED MYTH [currently on hiatus]
-  (musician, writer, artist)
-- FutureGamer25's Deltarune Engine
-  (coder)
-- UNDERTALE FIRST CONTACT modder
-- Undertale the Writer's Scribe (coder)
-- Undertale the Broken Future (coder,
-  musician) -- TAKING A BREAK
+----- TECH STACK -----
+- GameMaker enthusiasist
+- Many high-level languages, ie. Python, Lua, JavaScript/TypeScript etc.
+- Other lower-level languages ie. C++
+- Semi-interested in the Mojo programming language
+- Roblox development for some reason (mainly because of TDS Refurbished/Reimagined)
+- Non-programming related: Music (FL Studio, sound design), limited 3D modeling skills
+- Dabbled in VST development but I'm not very good
+
+----- PROJECTS -----
+- Lead Developer for Undertale Twilight, which is currently on life support
+- Ex-Lead Programmer for TDS Refurbished, formerly TDS Reimagined
+- Currently working on Albatross, which for most people outside of my immediate local area means nothing
+- Lead Programmer for Undertale: The Writer's Scribe
+- Programmer for Swapped Myth
+- Programmer for Kaeden's Storyfell
+- Ex-Programmer for Tales Between the Stars and Deltarune Internal Demons, both of which are now dead
