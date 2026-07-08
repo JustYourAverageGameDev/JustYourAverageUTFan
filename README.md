@@ -13,10 +13,9 @@ i'm also crap at poetry,
 - Dabbled in VST development but I'm not very good
 
 ----- PROJECTS -----
-- Lead Developer for Undertale Twilight, which is currently on life support
+- Lead Developer for Undertale Twilight, which is currently the best game on this planet
 - Ex-Lead Programmer for TDS Refurbished, formerly TDS Reimagined
 - Currently working on Albatross, which for most people outside of my immediate local area means nothing
 - Lead Programmer for Undertale: The Writer's Scribe
-- Programmer for Swapped Myth
 - Programmer for Kaeden's Storyfell
-- Ex-Programmer for Tales Between the Stars and Deltarune Internal Demons, both of which are now dead
+- Ex-Programmer for Tales Between the Stars, Deltarune Internal Demons, and Swapped Myth, both of which are now dead
